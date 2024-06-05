@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Huxkd named Stuti Gupta 
+- 👋 Hi, I’m @Stuti named Stuti Gupta 
 - 👀 I’m interested in Chemical Engineering 
 - 🌱 I’m currently learning Python Language
 - 💞️ I’m looking to collaborate on ...
